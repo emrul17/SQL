@@ -20,8 +20,9 @@ I have answered following questions.
 7. Find users who have liked every single photo.
 
 # Employee Data Analysis
-Employee database is a database containing tables. 
+Employee database is a database containing tables- Departments, department_employees, dept_manager, employees, salaries and title. 
 
+I used SQL to search following Queries and visualized the data with tableau.
 1. Create a visualization that provides a breakdown between the male and 
 female employees working in the company each year, starting from 1990.
 
