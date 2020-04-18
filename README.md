@@ -1,4 +1,4 @@
-# SQL
+# Instagram Data Analysis
 Instagram_query file contains the query search. I have searched query from instagram database. Instagram database is a 
 clone database contains following tables:
 
